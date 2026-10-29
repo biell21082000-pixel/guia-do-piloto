@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biell21082000-pixel.github.io/guia-do-piloto/sitemap.xml
